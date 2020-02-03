@@ -2220,6 +2220,15 @@ input, select, textarea {
 
 		}
 
+
+		.features section a img{
+			width:100% 
+		}
+#four img {
+	width:100%
+}
+
+
 /* Form */
 
 	form {
